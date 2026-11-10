@@ -14,7 +14,7 @@ The comment section on the Bilibili web version does not lack IP locations; they
 2. Click the installation link to jump to the script manager's userscript installation page;
 
 - [Install from Greasy Fork](https://greasyfork.org/scripts/599408)
-- [Install from Github Release](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.js)
+- [Install from Github Release](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.user.js)
 
 3. Install the script, then refresh the Bilibili website page that has a comment section.
 

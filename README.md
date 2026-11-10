@@ -14,7 +14,7 @@
 2. 点击安装链接跳转到脚本管理器的用户脚本安装界面；
 
 - [从 Greasy Fork 安装](https://greasyfork.org/scripts/599408)
-- [从 Github Release 安装](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.js)
+- [从 Github Release 安装](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.user.js)
 
 3. 安装脚本，然后刷新带有评论区的哔哩哔哩网站页面。
 

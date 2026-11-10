@@ -14,7 +14,7 @@
 2. 點擊安裝連結跳轉到腳本管理器的使用者腳本安裝介面；
 
 - [從 Greasy Fork 安裝](https://greasyfork.org/scripts/599408)
-- [從 Github Release 安裝](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.js)
+- [從 Github Release 安裝](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.user.js)
 
 3. 安裝腳本，然後重新整理帶有評論區的嗶哩嗶哩網站頁面。
 

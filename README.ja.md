@@ -14,7 +14,7 @@
 2. インストールリンクをクリックして、スクリプトマネージャーのユーザースクリプトインストール画面に移動します；
 
 - [Greasy Fork からインストール](https://greasyfork.org/scripts/599408)
-- [Github Release からインストール](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.js)
+- [Github Release からインストール](https://github.com/auspiceshirley/bili.web.ip-location/releases/latest/download/bili.web.ip-location.user.js)
 
 3. スクリプトをインストールし、コメント欄があるビリビリのウェブサイトページを更新します。
 
